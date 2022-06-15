@@ -1,0 +1,10 @@
+Link for training dataset 
+
+https://www.kaggle.com/emmarex/plant-disease-detection-using-keras
+
+
+
+Link for dataset
+
+https://www.kaggle.com/emmarex/plantdisease
+
